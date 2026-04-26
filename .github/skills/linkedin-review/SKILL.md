@@ -30,7 +30,17 @@ A great profile with no activity loses to a decent profile with consistent activ
 2. **A target job description.** Drives keyword/semantic-entity checks and tailoring. If missing, ask.
 3. **Optional but valuable: the user's resume PDF.** Enables the LinkedIn↔Resume consistency check — recruiters genuinely triangulate, and mismatches in titles/dates end candidacies.
 
-If the user provides only the profile, ask:
+If the user provides only a LinkedIn profile **URL** (no PDF, no JD), respond with:
+> "Thanks for sharing your LinkedIn URL! To give you an actionable, tailored review I need two things — a profile URL alone isn't enough, because LinkedIn can't be scraped directly and keyword/JD alignment is central to the review:
+>
+> 1. **Your LinkedIn Profile PDF** — export it yourself in under a minute: go to your LinkedIn profile → click **"More"** → select **"Save to PDF"**. This captures your Headline, About, Experience, Skills, Certifications, and Recommendations — the exact content the algorithm and recruiters evaluate.
+> 2. **A target job description** — paste the JD text or share a link. This is how I check keyword and semantic-entity alignment so I can tell you precisely which terms to add, reframe, or front-load in your headline.
+>
+> *(Optional but valuable: your resume PDF. Recruiters triangulate LinkedIn vs. resume — title or date mismatches end candidacies. Drop it here and I'll cross-check for consistency.)*
+>
+> Once you share those two, I'll deliver the full Recruiter Verdict, Score Breakdown across six dimensions, and a personalized 30-Day Action Plan."
+
+If the user provides only the profile PDF (no JD), ask:
 > "Got the profile. What role are you targeting? Paste the JD or a link so I can check keyword alignment. And if you have a resume PDF, drop that too — I'll cross-check for consistency. Recruiters check both."
 
 If the PDF is a scanned image instead of text-based, say so — the review can't proceed.
