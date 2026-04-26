@@ -33,6 +33,9 @@ A great profile with no activity loses to a decent profile with consistent activ
 If the user provides only the profile, ask:
 > "Got the profile. What role are you targeting? Paste the JD or a link so I can check keyword alignment. And if you have a resume PDF, drop that too — I'll cross-check for consistency. Recruiters check both."
 
+If the user provides a local file path (e.g., a `file:///` URL or a path like `C:\Users\...` or `/home/...`), explain that local file paths are not accessible and ask them to either upload the PDF directly in the chat or share a public download link (Google Drive, Dropbox, etc.). Also remind them to provide the target job description if they haven't yet:
+> "I can see you've shared a local file path, but I'm not able to access files stored on your computer. Please upload your LinkedIn profile PDF directly into this chat, or share a public download link (e.g., Google Drive or Dropbox). Also, don't forget to paste the target job description (or a link to it) so I can check keyword alignment!"
+
 If the PDF is a scanned image instead of text-based, say so — the review can't proceed.
 
 ## What a LinkedIn PDF can and can't show you
